@@ -1,6 +1,6 @@
 # Disney_analysis
 
-## High level analysis of answering:
+## High level analysis exploring the below questions:
 * Has Disney's box office performance improved over time?
 * Has Disney's revenue streams diversified or consolidated over time? Have they grown?
 
